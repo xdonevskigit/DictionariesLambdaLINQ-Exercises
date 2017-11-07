@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe.config
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\03.AMinerTask\obj\Debug\03.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\03.AMinerTask\obj\Debug\03.AMinerTask.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\03.AMinerTask\obj\Debug\03.AMinerTask.pdb

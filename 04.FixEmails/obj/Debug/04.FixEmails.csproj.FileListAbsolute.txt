@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\bin\Debug\04.FixEmails.exe.config
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\bin\Debug\04.FixEmails.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\bin\Debug\04.FixEmails.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\obj\Debug\04.FixEmails.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\obj\Debug\04.FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\obj\Debug\04.FixEmails.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\04.FixEmails\obj\Debug\04.FixEmails.pdb

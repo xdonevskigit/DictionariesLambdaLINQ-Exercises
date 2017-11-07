@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\bin\Debug\06.LogsAgregator.exe.config
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\bin\Debug\06.LogsAgregator.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\bin\Debug\06.LogsAgregator.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\obj\Debug\06.LogsAgregator.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\obj\Debug\06.LogsAgregator.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\obj\Debug\06.LogsAgregator.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\06.LogsAgregator\obj\Debug\06.LogsAgregator.csprojResolveAssemblyReference.cache

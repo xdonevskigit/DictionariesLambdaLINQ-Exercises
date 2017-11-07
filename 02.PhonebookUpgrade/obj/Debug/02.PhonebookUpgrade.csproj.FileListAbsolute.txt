@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\02.PhonebookUpgrade\bin\Debug\02.PhonebookUpgrade.exe.config
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\02.PhonebookUpgrade\bin\Debug\02.PhonebookUpgrade.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\02.PhonebookUpgrade\bin\Debug\02.PhonebookUpgrade.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\02.PhonebookUpgrade\obj\Debug\02.PhonebookUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\02.PhonebookUpgrade\obj\Debug\02.PhonebookUpgrade.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\02.PhonebookUpgrade\obj\Debug\02.PhonebookUpgrade.pdb

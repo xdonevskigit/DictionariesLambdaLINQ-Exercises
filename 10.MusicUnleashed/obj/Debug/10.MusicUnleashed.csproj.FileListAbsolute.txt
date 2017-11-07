@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\bin\Debug\10.MusicUnleashed.exe.config
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\bin\Debug\10.MusicUnleashed.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\bin\Debug\10.MusicUnleashed.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\obj\Debug\10.MusicUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\obj\Debug\10.MusicUnleashed.exe
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\obj\Debug\10.MusicUnleashed.pdb
+C:\Users\Icaka\source\repos\DictionariesLambdaLINQ - Exercises\10.MusicUnleashed\obj\Debug\10.MusicUnleashed.csprojResolveAssemblyReference.cache
